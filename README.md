@@ -4,14 +4,10 @@ Visualizaciones de variables en mapas coropléticos, estáticos e interactivos u
 <br>
 **Utilizar [Colab Notebook](https://colab.research.google.com/drive/12Ymj0uhDyPQmi1Qm5mwZvZcoFMMApD1b?usp=sharing) para visualizar los mapas interactivos** 
 <br>
-Ingresa a <a href='https://colab.research.google.com/drive/12Ymj0uhDyPQmi1Qm5mwZvZcoFMMApD1b?usp=sharing' target='_blank'>Colab Notebook 2</a> para visualizar los mapas interactivos
-<br>
 **Fuentes**
 1. Ubigeos:
 * URL: [Portal Datos Abiertos Perú](https://www.datosabiertos.gob.pe/dataset/poblaci%C3%B3n-peru)
 * Desde Github: [URL Github](https://github.com/jmcastagnetto/ubigeo-peru-aumentado)
 * Fuente: Ministerio de Salud - Perú
-2. Mapas Perú 
-* Distrital: [GeoJson Distritos Perú](https://raw.githubusercontent.com/juaneladio/peru-geojson/master/peru_distrital_simple.geojson)
-* Departamental: [GeoJson Departamentos Perú](https://raw.githubusercontent.com/juaneladio/peru-geojson/master/peru_departamental_simple.geojson)
+2. Mapas Perú (Geosjsons)
 * Fuente: https://github.com/juaneladio/peru-geojson
