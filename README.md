@@ -4,7 +4,7 @@ Visualizaciones de variables en mapas coropléticos, estáticos e interactivos u
 <br>
 **Utilizar [Colab Notebook](https://colab.research.google.com/drive/12Ymj0uhDyPQmi1Qm5mwZvZcoFMMApD1b?usp=sharing) para visualizar los mapas interactivos** 
 <br>
-Ingresa a <a href='https://colab.research.google.com/drive/12Ymj0uhDyPQmi1Qm5mwZvZcoFMMApD1b?usp=sharing'_blank>Colab Notebook 2</a> para visualizar los mapas interactivos
+Ingresa a <a href='https://colab.research.google.com/drive/12Ymj0uhDyPQmi1Qm5mwZvZcoFMMApD1b?usp=sharing' target='_blank'>Colab Notebook 2</a> para visualizar los mapas interactivos
 <br>
 **Fuentes**
 1. Ubigeos:
