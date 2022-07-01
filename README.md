@@ -6,7 +6,7 @@ Visualizaciones de variables en mapas coropléticos, estáticos e interactivos u
 <br><br><br>
 **Fuentes:**
 1. Ubigeos:
-* URL: [Portal Datos Abiertos Perú](https://www.datosabiertos.gob.pe/dataset/poblaci%C3%B3n-peru)
+* URL: [Portal Datos Abiertos Perú](https://www.datosabiertos.gob.pe/dataset/codigos-equivalentes-de-ubigeo-del-peru)
 * Desde Github: [URL Github](https://github.com/jmcastagnetto/ubigeo-peru-aumentado)
 * Fuente: Ministerio de Salud - Perú
 2. Mapas Perú (Geosjsons)
